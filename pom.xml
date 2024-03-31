@@ -76,11 +76,6 @@
     <version>2.17.0</version>
 </dependency>
 
-  	<dependency>
-  		<groupId>Selenium</groupId>
-  		<artifactId>SelniumFrameworkDesign</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
   </dependencies>
   
   <profiles>
